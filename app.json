@@ -13,11 +13,11 @@
     },
     "APP_ID": {
       "description": "ضع الأيبي ايدي", 
-      "value": ""
+      "value": "24757025"
     },
     "API_HASH": {
       "description": "ضع الأيبي هاش",
-      "value": ""
+      "value": "0f7f459f8afef5f49a42dd2738644bcb"
     },
     "STRING_SESSION": {
       "description": "ضع كود تيرمكس",
